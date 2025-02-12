@@ -17,7 +17,7 @@ A simple and visually appealing weather application that fetches and displays th
 - OpenWeatherMap API
 
 ## Author
-- Kurinji Eswar J A
+- Lakshara Anand
 
 ## Usage
 You can view the weather app by opening the index.html file in your web browser. Simply double-click the index.html file, or use a live server extension if you're using a code editor like VSCode.
